@@ -1,3 +1,5 @@
-This is a fork of github.com/rthornton128/goncurses.
+# goncurses [![Build Status](https://travis-ci.org/cha87de/goncurses.svg)](https://travis-ci.org/cha87de/goncurses)
 
-The purpose is to build a debian package with dh-make-golang.
+**This is a fork of http://github.com/rthornton128/goncurses **
+
+The purpose of this fork is to build a debian package for further use.
