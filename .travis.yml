@@ -4,4 +4,3 @@ go:
 install:
   - "go get -d -v ./..."
   - "go build -v"
-
